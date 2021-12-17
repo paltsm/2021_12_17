@@ -1,2 +1,2 @@
 # Órai munka
-hulye vagy
+okos vagy
